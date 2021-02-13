@@ -1,6 +1,6 @@
 <div align="center">
 
-# Random Meal Generator
+# Surprise Me-al
 
 </div>
 
